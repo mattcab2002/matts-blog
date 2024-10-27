@@ -1,0 +1,19 @@
+baseURL = 'https://blog.matthewcabral.com'
+languageCode = 'en-us'
+title = 'Matts Blog'
+theme = "hugo-bearcub"
+copyright = "Matthew Cabral"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[params]
+  description = "Matts blog"
+  madeWith = "https://github.com/mattcab2002"
+
+  [params.author]
+    name = "Matthew Cabral" # Your name as shown in the RSS feed metadata
+    email = "matthewanthonycabral@gmail.com" # Added to the footer so readers can reply to posts
+
+  [params.contact]
+    email = "matthewanthonycabral@gmail.com" # Added to the footer so readers can reply to posts
+    phone = "+1 514-743-7101"
